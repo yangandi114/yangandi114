@@ -4,9 +4,9 @@
 
 
 # 📊 GitHub Stats
-![](https://github-readme-stats-mctvr.vercel.app/api/?username=MCTVR&count_private=true&layout=compact&theme=github_dark&hide_border=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MCTVR&theme=tokyonight_duo&hide_border=true)<br/>
-![](https://github-readme-stats-mctvr.vercel.app/api/top-langs/?username=MCTVR&count_private=true&layout=compact&theme=github_dark&hide_border=true)
+![](https://github-readme-stats-mctvr.vercel.app/api/?username=yangandi114&count_private=true&layout=compact&theme=github_dark&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yangandi114&theme=tokyonight_duo&hide_border=true)<br/>
+![](https://github-readme-stats-mctvr.vercel.app/api/top-langs/?username=yangandi114&count_private=true&layout=compact&theme=github_dark&hide_border=true)
 
 ##  📱 💻 🖥 Apple App Development
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
