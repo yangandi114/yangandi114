@@ -1,7 +1,7 @@
 # 💫 About Me
 
-🌱 I’m currently learning **Rust**
-
+Developing ![Jaunty](https://jauntyhk.app)
+Download at ![App Store](https://jauntyhk.app/download)
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats-mctvr.vercel.app/api/?username=yangandi114&count_private=true&layout=compact&theme=github_dark&hide_border=true)<br/>
