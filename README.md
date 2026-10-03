@@ -1,7 +1,7 @@
 # 💫 About Me
 
-Developing ![Jaunty](https://jauntyhk.app)
-Download at ![App Store](https://jauntyhk.app/download)
+Developing <a href="https://jauntyhk.app">Jaunty</a>
+Download at <a href="https://jauntyhk.app/download">App Store</a>
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats-mctvr.vercel.app/api/?username=yangandi114&count_private=true&layout=compact&theme=github_dark&hide_border=true)<br/>
