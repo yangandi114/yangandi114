@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Developing <a href="https://jauntyhk.app">Jaunty</a>
+Developing <a href="https://jauntyhk.app">Jaunty</a><br>
 Download at <a href="https://jauntyhk.app/download">App Store</a>
 
 # 📊 GitHub Stats
